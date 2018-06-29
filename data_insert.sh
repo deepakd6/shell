@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sleep 10s &&  # Making the script sleep for 40sec and Run the following commands after sleep
+sleep 40s &&  # Making the script sleep for 40sec and Run the following commands after sleep
 
 DB_USER='root';         # Variable holding the username of  mysql
 DB_PASSWD='root123';    # Variable holding the Password of  mysql 
